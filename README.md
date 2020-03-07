@@ -5,10 +5,10 @@ Transfer Learning using the Darknet network and model architecture used is YOLO_
 
 Training done using the yolo_tiny .cfg file
 
-Weights file can be downloaded from the link:(https://drive.google.com/open?id=175uX_5y1D4RvWB2HDjkAa-Q-xdTlPISp)
+## Run
+In order to install and run the assignment follow the instruction below:
+Note that there is a need to install python3.6 and pip3 (package manager):
 
-Screenshots of predictions:
-
-![](images/img1.jpg)
-
-![](images/img2.png)
+    git clone https://github.com/WASP-AS1-Umea/assignment1
+    pip3 install -r req.txt
+    python3.6 fashion.py
